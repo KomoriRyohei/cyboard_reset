@@ -79,7 +79,7 @@
     };
 };
 
-// right hand trackball configuration
+// right hand trackball configuration test
 
 // &trackball_peripheral_listener {
 //    input-processors =
